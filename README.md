@@ -3,18 +3,24 @@
 <h1 align="center">Hi there 👋, I'm Nazmul Islam Nayem</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Coder;Web+Developer+%7C+Django+Backend;React+Frontend+Explorer;Let's+Build+Cool+Stuff+Together!🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Passionate+Coder;Web+Developer+%7C+React+Frontend;MongoDB+Explorer+%7C+Full-Stack+Learner;Let's+Build+Cool+Stuff+Together!🚀" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+<br />
+
+<div align="center">
+  <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+</div>
+
+---
 
 ## 🙋‍♂️ About Me
 
 - 🎓 BSc in Computer Science & Engineering  
   University of Asia Pacific  
 - 💻 Currently diving deeper into **Full-Stack Web Development**
-- 🌱 Learning **Next.js**, **MongoDB**, and advanced **Django**
-- ⚡ Fun fact: I can debug better with coffee ☕ and good music 🎧
+- 🌱 Learning **Next.js**, **MongoDB**, and exploring **Shopify Development**
+- ⚡ Fun fact: I debug better with coffee ☕ and lo-fi music 🎧
 
 ---
 
@@ -26,8 +32,9 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
 </p>
 
 ### 🛠️ Tools & Platforms
