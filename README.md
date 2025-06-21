@@ -3,8 +3,9 @@
 <h1 align="center">Hi there 👋, I'm Nazmul Islam Nayem</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Passionate+Coder;Web+Developer+%7C+React+Frontend;MongoDB+Explorer+%7C+Full-Stack+Learner;Let's+Build+Cool+Stuff+Together!🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Shopify+Developer;Passionate+Coder;React+%7C+JavaScript+Developer;MongoDB+%7C+Full-Stack+Explorer;Let's+Build+Cool+Stuff+Together!🚀" alt="Typing SVG" />
 </p>
+
 
 <br />
 
