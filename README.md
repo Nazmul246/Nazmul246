@@ -1,5 +1,3 @@
-<!-- GitHub Profile README for Nazmul Islam Nayem -->
-
 <h1 align="center">Hi there 👋, I'm Nazmul Islam Nayem</h1>
 
 <p align="center">
@@ -20,7 +18,7 @@
 - 🎓 BSc in Computer Science & Engineering  
   University of Asia Pacific  
 - 💻 Currently diving deeper into **Full-Stack Web Development**
-- 🌱 Learning **Next.js**, **MongoDB**, and exploring **Shopify Development**
+- 💡 Learning **Next.js**, **MongoDB**, and exploring **Shopify Development**
 - ⚡ Fun fact: I debug better with coffee ☕ and lo-fi music 🎧
 
 ---
