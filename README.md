@@ -71,8 +71,8 @@
   <a href="https://nazmulportfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
-  <a href="http://shoplift-studio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Our Team-%230078D4.svg?style=for-the-badge&logo=microsoftteams&logoColor=white" />
+  <a href="http://shoplift-studio.vercel.app/">
+    <img src="https://img.shields.io/badge/Our Team-%230078D4.svg?style=for-the-badge&logo=undertale&logoColor=white" />
   </a>
 </p>
 
