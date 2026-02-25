@@ -68,6 +68,12 @@
   <a href="https://www.facebook.com/nazmulislam4581" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
+  <a href="https://nazmulportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="http://shoplift-studio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Team Website-%230078D4.svg?style=for-the-badge&logo=microsoftteams&logoColor=white" />
+  </a>
 </p>
 
 ---
